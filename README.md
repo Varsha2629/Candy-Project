@@ -6,4 +6,7 @@ Step:1
 Download the Folder.
 
 Step:2
-Open index.php make sure all files and folders are in same folder.(styles,img,index.html)
+Open index.php.
+
+Note:
+Make sure all files and folders are in same those are styles.css,img,index.html
